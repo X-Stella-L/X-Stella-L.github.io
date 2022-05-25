@@ -544,6 +544,10 @@
 
 <p>![](..&#x2F;images&#x2F;5-25 hadoop伪分布&#x2F;64.png)</p>
 <p>如上图则启动成功。</p>
+<h5 id="9、检验环境是否配置成功"><a href="#9、检验环境是否配置成功" class="headerlink" title="9、检验环境是否配置成功"></a>9、检验环境是否配置成功</h5><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">jps     //检验</span><br><span class="line"></span><br><span class="line">NameNode</span><br><span class="line">ResourceManager</span><br><span class="line">SecondaryNameNode             //出现以上服务则启动成功</span><br></pre></td></tr></table></figure>
+
+
+
 <h3 id="三、总结"><a href="#三、总结" class="headerlink" title="三、总结"></a>三、总结</h3><p>Hadoop 伪分布环境已经搭建好了，下一次来分享在这个环境的基础上 Hive 数仓的配置与 MySQL 数据库的配置吧！</p>
 ]]></content>
       <categories>
